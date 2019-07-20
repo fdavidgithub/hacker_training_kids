@@ -26,7 +26,7 @@ cd diretorio
 rmdir diretorio
 
 2- Hacker nutella
-Entre no gerenciador de arquivos, clique com o botao direito e selecione Nova Pasta, para entrar basta dar duplo clique e apagar clicar com o botao direito e Remover/Excluir.
+* Entre no gerenciador de arquivos, clique com o botao direito e selecione Nova Pasta, para entrar basta dar duplo clique e apagar clicar com o botao direito e Remover/Excluir.
 
 ---
 
