@@ -30,7 +30,7 @@ Entre no gerenciador de arquivos, clique com o botao direito e selecione Nova Pa
 
 ---
 
-LEMBRE-SE, QUANTO MAIS FACIL....
+LEMBRE-SE, QUANTO MAIS FACIL....\
 MENOS SE CONTROLA E MAIS CONTROLADO EH!!!
 
 
